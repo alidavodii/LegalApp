@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/IRANYekanX-Bold.ttf",
+      "sha1": "0916fb9394492b1856ce9e24769d7b9efc3f0396"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanX-Medium.ttf",
+      "sha1": "ed08128e48ada22e83041a4cdf4d7834dc064950"
+    }
+  ]
+}
